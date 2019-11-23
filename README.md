@@ -36,7 +36,7 @@ for item in nilai:                                                            ##
 print("==================================================================")
 ```
 - Flowchart
-![FLOWCHART](https://user-images.githubusercontent.com/22215113/69473040-4e903680-0de4-11ea-83fd-d34beaa04cb7.png)
+![FLOWCHART](https://github.com/alviandwipramono/Pratikum5/blob/master/78066986_747638872417758_6048935199843024896_n.png)
 
 - Screenshot Input
 ![Input](https://user-images.githubusercontent.com/22215113/69473008-eccfcc80-0de3-11ea-8174-26729aa0c3b9.png)
