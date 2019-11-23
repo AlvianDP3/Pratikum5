@@ -39,7 +39,7 @@ print("==================================================================")
 ![FLOWCHART](https://github.com/alviandwipramono/Pratikum5/blob/master/78066986_747638872417758_6048935199843024896_n.png)
 
 - Screenshot Input
-![Input](https://user-images.githubusercontent.com/22215113/69473008-eccfcc80-0de3-11ea-8174-26729aa0c3b9.png)
+![Input](https://github.com/alviandwipramono/Pratikum5/blob/master/Untitled.png)
 
 - Screenshot Ouput
-![Output](https://user-images.githubusercontent.com/22215113/69473016-feb16f80-0de3-11ea-9ea0-8bbd5b837d0b.png)
+![Output](https://github.com/alviandwipramono/Pratikum5/blob/master/ngopi.png)
